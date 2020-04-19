@@ -5,4 +5,4 @@ date: 2020-04-18
 ---
 
 This is a simple excercise to compare total number of coronavirus cases found in Italy and the state of Florida, USA.
-<p>An image: <img src="covid19.png" alt="covid19" /></p>
+![covid19 cumilative cases](covid19.jpg)
