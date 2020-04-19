@@ -10,10 +10,9 @@ state lavel is immense as countries and communities adopt some form of
 social distancing and isolation of people. With lot of discussion and
 debates on the effectiveness of state lockdown orders and attempts to
 prevent people from gathering, I decided to make a simple comparison
-of numbers. The data is publicly available from European Centre for
-Dicease Prevention and Control
-(https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
-and New York Times (https://github.com/nytimes/covid-19-data).  
+of numbers. The data is publicly available from [European Centre for
+Dicease Prevention and Control] (https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
+and [New York Times] (https://github.com/nytimes/covid-19-data).  
 
 This is a simple excercise to compare total number of coronavirus cases found in Italy and the state of Florida, USA.
 
