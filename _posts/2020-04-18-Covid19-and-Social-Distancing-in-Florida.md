@@ -16,4 +16,5 @@ Dicease Prevention and Control
 and New York Times (https://github.com/nytimes/covid-19-data).  
 
 This is a simple excercise to compare total number of coronavirus cases found in Italy and the state of Florida, USA.
+
 ![covid19 cumilative cases](/assets/covid19.png)
