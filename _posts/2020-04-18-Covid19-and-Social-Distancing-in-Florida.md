@@ -19,6 +19,11 @@ coronavirus cases found in Italy and the state of Florida, USA. The
 population is Italy is about 2.8 times of Florida and therefore the
 number of infections were devided by the population ratio. Also, the
 cumilative curve of Florida was shifted forward by 44 days as the
-covid19 infections started much earlier in Italy. 
+covid19 infections started much earlier in Italy. The curves
+surprisingly overlap until April 4th. Florida governer issed [stay at
+home order](https://www.usnews.com/news/best-states/florida/articles/2020-04-01/florida-governor-issues-statewide-stay-at-home-order)
+on April 1st effectiveon April 3rd and I am not sure this
+is the single reason responsible for this improvement. I compared the
+other states such as New York and did not find such an overlap.
 
 ![covid19 cumilative cases](/assets/covid19.png)
