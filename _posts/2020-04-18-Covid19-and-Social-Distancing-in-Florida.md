@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Covid19 and Social Distancing in Florida"
+title: "Covid-19 and Social Distancing in Florida"
 date: 2020-04-18
 ---
 
