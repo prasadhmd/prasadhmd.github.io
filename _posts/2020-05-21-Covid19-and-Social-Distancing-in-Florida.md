@@ -49,3 +49,4 @@ consistant.
 ![covid19 cumilative cases](/assets/FL_alike.png)
 ![covid19 cumilative cases](/assets/OK_alike.png)
 ![covid19 cumilative cases](/assets/TN_alike.png)
+![covid19 cumilative cases](/assets/NY_NJ.png)
