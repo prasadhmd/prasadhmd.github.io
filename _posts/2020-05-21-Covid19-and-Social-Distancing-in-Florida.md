@@ -46,6 +46,6 @@ such a way that the average shifts in each group is mathematically
 consistant.
 
 ![covid19 cumilative cases](/assets/CA_alike.png)
-![covid19 cumilative cases](/assets/FL_like.png)
+![covid19 cumilative cases](/assets/FL_alike.png)
 ![covid19 cumilative cases](/assets/OK_alike.png)
 ![covid19 cumilative cases](/assets/TN_alike.png)
