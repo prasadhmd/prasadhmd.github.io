@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Covid-19 and Social Distancing in Florida"
-date: 2020-04-18
+date: 2020-05-21
 ---
 
 Coronavirus is affecting daily lives of people almost everywhere in the
