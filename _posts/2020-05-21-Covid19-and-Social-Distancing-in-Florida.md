@@ -45,6 +45,17 @@ possible deviation from each other and above groups were selected in
 such a way that the average shifts in each group is mathematically
 consistent.
 
+The units of x-axis is days. Due to shifting of curves for overlapping, each
+curve has its own axis and therefore only number of days are
+displayed. The y-axis denotes the percentage of population
+infected. As you can see, Hawaii and Montana has flattened the cutves
+and New York and New Jersey are almost there. However, the states in
+the first plot especially are still finding new cases. This could be
+due to increased testing. Also, the mortality rate is not considered
+in this analysis and is declining in most states. Therefore, do not
+interpret these results as a mere sign of worsening the situation in
+any state.
+
 ![covid19 cumulative cases](/assets/CA_alike.png)
 ![covid19 cumulative cases](/assets/FL_alike.png)
 ![covid19 cumulative cases](/assets/OK_alike.png)
