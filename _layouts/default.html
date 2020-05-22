@@ -4,15 +4,23 @@
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			{% include analytics.html %}
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167349047-1"></script>
+			<script>
+			  window.dataLayer = window.dataLayer || [];
+			  function gtag(){dataLayer.push(arguments);}
+			  gtag('js', new Date());
+			  
+			  gtag('config', 'UA-167349047-1');
+			</script>
 		</head>
 		<body>
 			<nav>
 	    		<ul>
 	        		<li><a href="/">Home</a></li>
 		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
+	        		<!--<li><a href="/cv">CV</a></li>
+	        		<li><a href="/blog">Blog</a></li> -->
 	    		</ul>
 			</nav>
 			<div class="container">
