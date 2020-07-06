@@ -108,9 +108,9 @@ rates are higher unless there is a mask mandate together with not
 reopening until the curve is significantly flat. I will gather more
 data to make a further analysis in a future post.
 
-![covid19 cumulative cases](/assets/covid19_0.01>0.005.png)
-![covid19 cumulative cases](/assets/covid19_0.02>0.01.png)
-![covid19 cumulative cases](/assets/covid19_0.03>0.02.png)
-![covid19 cumulative cases](/assets/covid19_0.04>0.03.png)
-![covid19 cumulative cases](/assets/covid19_0.05>0.04.png)
+![covid19 cumulative cases](/assets/covid19_wleg_0.01>0.005.png)
+![covid19 cumulative cases](/assets/covid19_wleg_0.02>0.01.png)
+![covid19 cumulative cases](/assets/covid19_wleg_0.03>0.02.png)
+![covid19 cumulative cases](/assets/covid19_wleg_0.04>0.03.png)
+![covid19 cumulative cases](/assets/covid19_wleg_0.05>0.04.png)
 
