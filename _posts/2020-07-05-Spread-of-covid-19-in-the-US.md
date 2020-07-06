@@ -54,6 +54,9 @@ the number of people allowed in restaurants, bars, pools and gyms to
 about two weeks of opening each sate although further analysis is
 necessary to verify whether this is true.
 
+![covid19 cumulative cases](/assets/covid19_<0.005.png)
+![covid19 cumulative cases](/assets/covid19_>0.05.png)
+
 On June 15th, New Jersey opened up outdoor dining at all times of day or
 night,in-person retail and child care services with restrictions. New
 York city where the heaviest outbreak of the world occurred began phase
@@ -105,8 +108,6 @@ rates are higher unless there is a mask mandate together with not
 reopening until the curve is significantly flat. I will gather more
 data to make a further analysis in a future post.
 
-![covid19 cumulative cases](/assets/covid19_<0.005.png)
-![covid19 cumulative cases](/assets/covid19_>0.05.png)
 ![covid19 cumulative cases](/assets/covid19_0.01>0.005.png)
 ![covid19 cumulative cases](/assets/covid19_0.02>0.01.png)
 ![covid19 cumulative cases](/assets/covid19_0.03>0.02.png)
